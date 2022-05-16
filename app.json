@@ -1,12 +1,12 @@
 {
 	"name": "File-Store-Bot",
 	"description": "Bot will help you to save files permanently and also gives you sharable link for it .",
-	"repository": "https://github.com/Kunal-Diwan/File-Store-Bot",
-    "logo": "https://telegra.ph/file/8196155a3394ac0027394.jpg",
+	"repository": "https://github.com/Dgthemaster/File-hj-Bot/",
+    "logo": "https://telegra.ph/file/b46a4d49dbc0e4aab2517.jpg",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 	"env": {
 		"TOKEN": {
-			"description": "bot token provided by @botfather",
+			"description": "bot token of bot made by @botfather",
             "value":"token"
 		},
         "DOMAIN":{
